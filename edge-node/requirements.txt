@@ -1,0 +1,5 @@
+opencv-python
+opencv-contrib-python
+numpy
+Pillow
+python-socketio==5.7.2
