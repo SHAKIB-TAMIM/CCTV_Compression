@@ -1,0 +1,19 @@
+{
+  "received_at": "2025-12-01T13:45:54.967Z",
+  "frame_id": 1,
+  "timestamp": 1764596754,
+  "rois": [
+    {
+      "bbox": [
+        10,
+        10,
+        50,
+        50
+      ]
+    }
+  ],
+  "meta": {
+    "bg_scale": 0.5
+  },
+  "experiment_id": "test_exp_001"
+}

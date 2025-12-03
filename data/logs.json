@@ -1,0 +1,992 @@
+[
+  {
+    "timestamp": "2025-10-17T19:34:55.211Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:34:56.212Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:34:57.213Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:34:58.214Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:34:59.216Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:00.217Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:01.218Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:02.219Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:03.219Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:04.220Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:05.221Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:06.223Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:07.224Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:08.225Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:09.226Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:10.227Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:11.229Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:12.229Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:13.230Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:14.231Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:15.232Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:16.233Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:17.234Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:18.235Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:19.236Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:20.237Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:21.239Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:22.240Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:23.241Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:24.241Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:25.243Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:26.243Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:27.244Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:28.245Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:29.246Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:30.247Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:31.248Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:32.249Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:33.250Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:34.251Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:35.251Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:36.252Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:37.253Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:38.254Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:39.255Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:40.257Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:41.257Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:42.258Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:43.259Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:44.260Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:45.261Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:46.262Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:47.263Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:48.264Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:49.265Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:50.266Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:51.267Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:52.268Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:53.269Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:54.269Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:55.270Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:56.271Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:57.272Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:58.274Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:35:59.274Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:00.275Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:01.277Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:02.278Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:03.279Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:04.281Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:05.282Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:06.283Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:07.284Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:08.285Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:09.286Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:10.288Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:11.290Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:12.291Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:13.293Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:14.294Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:15.296Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:16.297Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:17.298Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:18.299Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:19.300Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:20.301Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:21.303Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:22.303Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:23.304Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:24.304Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:25.305Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:26.306Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:27.307Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:28.308Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:29.309Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:30.310Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:31.311Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:32.313Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:33.314Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:34.315Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:35.316Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:36.317Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:37.318Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:38.319Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:39.320Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:40.321Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:41.322Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:42.323Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:43.324Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:44.325Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:45.326Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:46.327Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:47.328Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:48.329Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:49.330Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:50.331Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:51.332Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:52.334Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:53.335Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:54.336Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:55.338Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:56.340Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:57.341Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:58.343Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:36:59.345Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:00.346Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:01.347Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:02.349Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:03.351Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:04.352Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:05.354Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:06.356Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:07.356Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:08.358Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:09.359Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:10.361Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:11.363Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:12.364Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:13.364Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:14.366Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:15.368Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:16.370Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:17.372Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:18.375Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:19.377Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:20.379Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:21.381Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:22.383Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:23.385Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:24.385Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:25.387Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:26.388Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:27.390Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:28.392Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:29.394Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:30.396Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:31.397Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:32.398Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:33.399Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:34.401Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:35.402Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:36.404Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:37.405Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:38.406Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:39.408Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:40.409Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:41.411Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:42.412Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:43.413Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:44.414Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:45.415Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:46.416Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:47.417Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:48.418Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:49.419Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:50.420Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:51.421Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:52.422Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:53.423Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:54.423Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:55.424Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:56.425Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:57.426Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:58.427Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:37:59.428Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:00.429Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:01.430Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:02.431Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:03.432Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:04.433Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:05.434Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:06.435Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:07.437Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:08.439Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:09.440Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:10.442Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:11.443Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  },
+  {
+    "timestamp": "2025-10-17T19:38:12.445Z",
+    "total_clients": 0,
+    "total_kbps": "0.00"
+  }
+]

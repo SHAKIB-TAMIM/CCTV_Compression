@@ -1,0 +1,8 @@
+timestamp,experiment_id,control_json
+2025-12-02T18:08:19.635Z,test_run_01,"{""experiment_id"":""test_run_01"",""save_sample"":true,""bg_scale"":0.5,""bg_quality"":20,""roi_quality"":90}"
+2025-12-02T18:22:01.591Z,BG10_ROI70_20251202_182201,"{""bg_quality"":10,""roi_quality"":70,""experiment_id"":""BG10_ROI70_20251202_182201"",""save_sample"":true}"
+2025-12-02T18:22:26.737Z,BG30_ROI80_20251202_182226,"{""bg_quality"":30,""roi_quality"":80,""experiment_id"":""BG30_ROI80_20251202_182226"",""save_sample"":true}"
+2025-12-02T18:22:51.879Z,BG50_ROI90_20251202_182251,"{""bg_quality"":50,""roi_quality"":90,""experiment_id"":""BG50_ROI90_20251202_182251"",""save_sample"":true}"
+2025-12-02T18:38:42.293Z,BG10_ROI70_20251202_183842,"{""bg_quality"":10,""roi_quality"":70,""experiment_id"":""BG10_ROI70_20251202_183842"",""save_sample"":true}"
+2025-12-02T18:39:07.444Z,BG30_ROI80_20251202_183907,"{""bg_quality"":30,""roi_quality"":80,""experiment_id"":""BG30_ROI80_20251202_183907"",""save_sample"":true}"
+2025-12-02T18:39:32.572Z,BG50_ROI90_20251202_183932,"{""bg_quality"":50,""roi_quality"":90,""experiment_id"":""BG50_ROI90_20251202_183932"",""save_sample"":true}"

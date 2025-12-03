@@ -1,0 +1,12 @@
+{
+  "received_at": "2025-12-02T18:39:07.526Z",
+  "frame_id": 23332,
+  "timestamp": 1764700747.522352,
+  "rois": [],
+  "meta": {
+    "bg_scale": 0.4,
+    "bg_quality": 30,
+    "roi_quality": 80
+  },
+  "experiment_id": "BG30_ROI80_20251202_183907"
+}
