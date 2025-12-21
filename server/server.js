@@ -16,6 +16,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 const server = http.createServer(app);
 const io = socketio(server, { cors: { origin: '*' } });
 
+
+
 // -------------------- Namespaces --------------------
 const STREAM_NS = '/stream';
 const VIEW_NS = '/view';

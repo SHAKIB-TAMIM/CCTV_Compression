@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Live CCTV ROI Stream</title>
+  <style>
+    body {
+      background: #0b0b0b;
+      color: #00ffcc;
+      font-family: Arial;
+      text-align: center;
+    }
+    img {
+      border: 3px solid #00ffcc;
+      margin-top: 15px;
+      max-width: 95%;
+    }
+  </style>
+</head>
+<body>
+
+<h2>📡 Live Edge CCTV Stream</h2>
+<p>ROI-based Adaptive Compression</p>
+
+<img id="video" />
+
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  const socket = io("/view");
+
+  socket.on("connect", () => {
+    console.log("Connected to /view");
+  });
+
+  socket.on("frame", (msg) => {
+    if (!msg.vis_frame) return;
+    document.getElementById("video").src =
+      "data:image/jpeg;base64," + msg.vis_frame;
+  });
+</script>
+
+</body>
+</html>

@@ -239,6 +239,7 @@ def main(server_url, cam_index, target_fps):
                 # short wait, avoid busy spin
                 time.sleep(0.05)
                 continue
+            vis_frame = frame.copy()
 
             frame_id += 1
             h, w = frame.shape[:2]
@@ -252,6 +253,9 @@ def main(server_url, cam_index, target_fps):
                 bg = frame.copy()
 
             bg_b64 = jpeg_encode_b64(bg, quality=int(control['BG_QUALITY'])) if bg is not None else ""
+            # Encode visualization frame (ROI + motion overlay)
+            vis_b64 = jpeg_encode_b64(vis_frame, quality=60)
+
 
             motion_percent = 0.0
             rois = []
@@ -296,6 +300,33 @@ def main(server_url, cam_index, target_fps):
                         continue
                 rois = filtered
 
+                # ============================
+                # ROI VISUALIZATION OVERLAY
+                # ============================
+                vis_frame = frame.copy()
+
+                for r in rois:
+                    x1, y1, x2, y2 = r
+                    cv2.rectangle(
+                        vis_frame,
+                        (x1, y1),
+                        (x2, y2),
+                        (0, 255, 0),  # green box
+                        2
+                    )
+
+                # Show motion percentage on frame
+                cv2.putText(
+                    vis_frame,
+                    f"Motion: {motion_percent:.2f}%",
+                    (10, 30),
+                    cv2.FONT_HERSHEY_SIMPLEX,
+                    0.8,
+                    (0, 0, 255),
+                    2
+                )
+
+
                 # Send motion report (non-blocking, short timeout)
                 try:
                     post_motion(server_url, control.get('EXPERIMENT_ID', ''), frame_id, motion_percent, rois)
@@ -329,6 +360,7 @@ def main(server_url, cam_index, target_fps):
                 "orig_w": w,
                 "orig_h": h,
                 "bg_data": bg_b64,
+                "vis_frame": vis_b64,
                 "rois": roi_msgs
             }
             try:
@@ -354,6 +386,11 @@ def main(server_url, cam_index, target_fps):
                 finally:
                     # make sure we clear the flag so evaluate.py doesn't wait forever
                     control['SAVE_SAMPLE'] = False
+            # Optional local preview (for debugging / viva)
+
+            # cv2.imshow("Edge Node - Live ROI Stream", vis_frame)
+            # if cv2.waitKey(1) & 0xFF == ord('q'):
+            #     break
 
             # FPS limiter
             elapsed = time.time() - last_send
